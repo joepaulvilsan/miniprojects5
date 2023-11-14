@@ -47,28 +47,28 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBTSY3ZtEj7L6EdsIHUNHyP40Ms65kHxig',
-    appId: '1:838762669833:web:4a7df5f1ebf1ab00e9d5d8',
-    messagingSenderId: '838762669833',
-    projectId: 'test-4747',
-    authDomain: 'test-4747.firebaseapp.com',
-    storageBucket: 'test-4747.appspot.com',
+    apiKey: 'AIzaSyCGzR2M2Lk45UWNpywhPR97HHwqnERU7ws',
+    appId: '1:1072074737122:web:dc9fd455eee6e2e30f25bb',
+    messagingSenderId: '1072074737122',
+    projectId: 'ecommerce-frontend-40dae',
+    authDomain: 'ecommerce-frontend-40dae.firebaseapp.com',
+    storageBucket: 'ecommerce-frontend-40dae.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCHnOy9_UW5ChQvZY6d2aWgSLc8pnliA9U',
-    appId: '1:838762669833:android:cd986b8fc404ee92e9d5d8',
-    messagingSenderId: '838762669833',
-    projectId: 'test-4747',
-    storageBucket: 'test-4747.appspot.com',
+    apiKey: 'AIzaSyCB1sK0n6wzYRx4ASGDoKWxiGdx8YQqwL0',
+    appId: '1:1072074737122:android:9cf86b394d2847960f25bb',
+    messagingSenderId: '1072074737122',
+    projectId: 'ecommerce-frontend-40dae',
+    storageBucket: 'ecommerce-frontend-40dae.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD0-gbYx9Y18H8lfs40fF6FvNRKzFlZ35U',
-    appId: '1:838762669833:ios:7cf30c4d8e62722ee9d5d8',
-    messagingSenderId: '838762669833',
-    projectId: 'test-4747',
-    storageBucket: 'test-4747.appspot.com',
+    apiKey: 'AIzaSyBKmoeGmdSe0lk5BmFh0QNAGnoT7-sj2VA',
+    appId: '1:1072074737122:ios:daf981a3caa2b2350f25bb',
+    messagingSenderId: '1072074737122',
+    projectId: 'ecommerce-frontend-40dae',
+    storageBucket: 'ecommerce-frontend-40dae.appspot.com',
     iosBundleId: 'com.example.flutterEcommerceBackend',
   );
 }
